@@ -2,7 +2,8 @@
 ![YOLOv8](https://img.shields.io/badge/YOLO-Ultralytics-blueviolet)
 
 # Aeroponics Vegetable Monitoring  
-## Dataset Engineering, Model Training & Deployment Pipeline (YOLOv8)
+
+Dataset Engineering, Model Training & Deployment Pipeline (YOLOv8)
 
 ## 🔗 Connected Projects (End-to-End AI Pipeline)
 
